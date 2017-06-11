@@ -1,0 +1,43 @@
+<resources>
+
+    <string name="studentloan">Student Loan</string>
+    <string name="ABankAccount">A Bank Account</string>
+    <string name="or">OR</string>
+
+    <string name="app_name">Financtesetudes</string>
+    <string name="welcome">Welcome To</string>
+
+
+    <string name="action_settings">Settings</string>
+
+    <string name="action_show_access_token_title">Print Access Token</string>
+
+
+    <string name="app_id">1800332700253003</string>
+    <string name="title_activity_access_token">AccessTokenActivity</string>
+    <string name="title_activity_show_access_token">ShowAccessTokenActivity</string>
+    <string name="whatareyoulookingfor">What Are You Looking for?</string>
+
+
+    <string name="nameofunviversity"> Name of University or school</string>
+    <string name="towncity">Town or city</string>
+    <string name="postcode">Postal code</string>
+    <string name="Typeofstudy"> What Type of studies</string>
+
+    <string name="Name">Name and Surname</string>
+    <string name="DateofBrith">Date of Birth</string>
+    <string name="Nationality">Nationality</string>
+    <string name="Email">E-mail</string>
+    <string name="Telephone">Telephone</string>
+
+
+    <string-array name="spinner_item">
+        <item>Yes</item>
+        <item>No</item>
+    </string-array>
+    <string-array name="subject">
+        <item>Thanks for Register ! Register Details</item>
+        <item></item>
+    </string-array>
+
+</resources>
